@@ -147,6 +147,7 @@
 - [Speechling](https://speechling.com/) - 获取发音反馈
 - [SmallTalk2Me](https://smalltalk2.me/) - AI驱动的口语练习工具
 - [发音技巧舌位图解](https://www.bilibili.com/video/BV1Ji4y1P7Lu) - 有具体舌位图，对发音很有帮助
+- [Episoden](https://link.episoden.com/r/nXaPEO) - 免费多国一对人真人对话
 
 ## 视频学习
 
